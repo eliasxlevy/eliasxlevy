@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hey, I'm Elias 👋
 
-
-# [![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasxlevy)](https://github.com/eliasxlevy/github-readme-stats)
+- 📍 Location: Nashville
+- 🔗 Check out my website: https://eliasxlevy.github.io
+- 🌱 I’m currently learning: AI Agents through Hugging Face's free course!
+- 📫 How to reach me: elias.levy@vanderbilt.edu
 
 <!--
 **eliasxlevy/eliasxlevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
