@@ -1,4 +1,4 @@
-*Associate Research Engineer*
+## Associate Research Engineer
 
 
 `nashville, tn · eliasxlevy.github.io`
