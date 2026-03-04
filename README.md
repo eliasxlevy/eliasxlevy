@@ -1,21 +1,20 @@
-## Hey, I'm Elias 👋
+### Elias Levy
 
-- 📍 Location: Nashville
-- 🔗 Check out my website: https://eliasxlevy.github.io
-- 🌱 I’m currently learning: AI Agents through Hugging Face's free course!
-- 📫 How to reach me: elias.levy@vanderbilt.edu
+*Associate Research Engineer*
 
-<!--
-**eliasxlevy/eliasxlevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+`nashville, tn · eliasxlevy.github.io`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### interests
+
+* medical imaging
+* federated learning
+* distributed computing
+* natural language processing
+
+### offline
+
+* climbing
+* music
+* coffee
+
