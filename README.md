@@ -1,5 +1,3 @@
-### Elias Levy
-
 *Associate Research Engineer*
 
 
